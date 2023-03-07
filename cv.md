@@ -2,7 +2,7 @@
 ---
 
 # Marina Makarova
----
+![my_photo](myPhoto.png)
 
 ## My contact info
 ---
@@ -11,6 +11,7 @@
 * __E-mail__: marinamakarova749@gmail.com 
 * __LinkedIn__: [marina-makarova](https://www.linkedin.com/in/marina-makarova-b571a2247/)
 * __GitHub__: [mmarakesh](https://github.com/mmarakesh)
+* __Discord__ __rs school__: Marina Makarova (@mmarakesh)
 
 ## About me
 ---
@@ -48,8 +49,11 @@ Multi-page information site about cosmetics built on React using React Router DO
 ## Education
 ---
 __Fullstack__ (React, Redux and Node) - _CanSheCode Inc._ - in the learning process (Montreal, Canada)
+
 __Web Development__ (HTML, CSS, JavaScript) - _CanSheCode Inc._ - Certificate (Montreal, Canada)
+
 __Bootstrap 5__ - _CanSheCode Inc._ - Certificate (Montreal, Canada)
+
 __Gsap & Figma__ - _CanSheCode Inc._ - Certificate (Montreal, Canada)
  
 ## Languages
