@@ -60,5 +60,5 @@ __Gsap & Figma__ - _CanSheCode Inc._ - Certificate (Montreal, Canada)
 ---
 * __Russian__ - native
 * __Ukrainian__ - native
-* __English__ - A1 (in process)
+* __English__ - B1 (in process)
 * __Serbian__ - basic
